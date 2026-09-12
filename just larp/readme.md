@@ -1,0 +1,1 @@
+esp32 project this is probably bad project bcd i made this in 1 day 
